@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvoidRoads", "AvoidRoads\AvoidRoads.csproj", "{721787DC-4B9F-4A48-8C73-DC52B2F981A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{54CD2AB8-8D0E-4681-AA0E-BE1D9212AF02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{721787DC-4B9F-4A48-8C73-DC52B2F981A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721787DC-4B9F-4A48-8C73-DC52B2F981A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721787DC-4B9F-4A48-8C73-DC52B2F981A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721787DC-4B9F-4A48-8C73-DC52B2F981A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CD2AB8-8D0E-4681-AA0E-BE1D9212AF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CD2AB8-8D0E-4681-AA0E-BE1D9212AF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CD2AB8-8D0E-4681-AA0E-BE1D9212AF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CD2AB8-8D0E-4681-AA0E-BE1D9212AF02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
